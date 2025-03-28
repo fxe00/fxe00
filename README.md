@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<img src="https://inews.gtimg.com/om_bt/ONHdrZQV0cJZrMHaMI5FzyIgIgQiKVkFXCbgZEvXkEUkkAA/641" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**fxe00/fxe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm 🌱, a common human</div>  
+  
 
-Here are some ideas to get you started:
+- 😈 I'm a pretty good cv engineer  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤏 keep learning a little bit every day  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
