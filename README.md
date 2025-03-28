@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://inews.gtimg.com/om_bt/ONHdrZQV0cJZrMHaMI5FzyIgIgQiKVkFXCbgZEvXkEUkkAA/641" align="center" style="width: 100%" />
+<img src="https://inews.gtimg.com/om_bt/ONHdrZQV0cJZrMHaMI5FzyIgIgQiKVkFXCbgZEvXkEUkkAA/641" align="center" style="width: 60%" />
 </div>  
   
 
